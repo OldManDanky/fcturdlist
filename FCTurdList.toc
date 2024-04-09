@@ -1,6 +1,0 @@
-##Interface: 30403
-## Title: FC Turd List
-## Notes: Filthy Casual Turd List
-## Version 1.0
-
-FCTurdList.lua
