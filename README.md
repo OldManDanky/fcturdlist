@@ -1,4 +1,4 @@
-# fcturdlist
+# Filthy Casual's Turd List
 WoW addon for the Filthy Casual Guild.
 
 To Install:
