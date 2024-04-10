@@ -21,8 +21,6 @@ local turds = {
     ["Dustdry"] = "Ninja",
     ["Playedonce"] = "Troll Tank",
     ["Gazoo"] = "Wiped Immortal Run Troll",
-    ["Oldmanshooty"] = "testing",
-    ["Alethius"] = "testing"
 }
 
 -- Function to show a popup notification
