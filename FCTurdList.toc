@@ -2,6 +2,6 @@
 ## Title: FC Turd List
 ## Notes: Filthy Casual Turd List
 ## Author: OldManDanky
-## Version: 1.02
+## Version: 1.04
 
 FCTurdList.lua
