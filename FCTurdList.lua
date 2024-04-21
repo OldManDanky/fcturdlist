@@ -21,6 +21,11 @@ local turds = {
     ["Dustdry"] = "Ninja",
     ["Playedonce"] = "Troll Tank",
     ["Gazoo"] = "Wiped Immortal Run Troll",
+    ["Slippeddisc"] = "Trolled VOA/Caused Wipe/left",
+    ["Pyrotropi"] = "Shit Fire Mage and Ninja",
+    ["Zác"] = "Druid going AFK during raid",
+    ["Lianix"] = "Shaman going AFK during raid",
+    
 }
 
 -- Function to show a popup notification
